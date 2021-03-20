@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "goBc14ur1wPMnbymQAigsMDSHU16oo8CRt7U5BwIbjC/gd1s3mJvR/QULHU9guuazUbIDu1oqEK5jsr79qejgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timre\\source\\repos\\tjr-run-devops\\Shopping\\Shopping.Client\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timre\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
